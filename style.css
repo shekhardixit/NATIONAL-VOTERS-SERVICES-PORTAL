@@ -1,6 +1,24 @@
 header{
 	background:#000;
 }
+
 h1{
 	color:white;
+}
+
+.fontsetting {
+    padding-top: 10px;
+    text-align: center;
+    border: solid 0.5px rgb(221, 221, 221);
+    margin: 5px;
+    padding-bottom: 22px;
+}
+
+.fontsetting button {
+    width: 80px;
+    padding: 2px;
+    float: left;
+    margin-left: 50px;
+    background-color: gray;
+    height: 28px;
 }
