@@ -52,4 +52,8 @@ h3{
 
 .descrip {
     background-color: rgb(224, 171, 157);
+    padding: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
 }
